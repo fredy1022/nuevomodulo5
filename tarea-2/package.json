@@ -1,0 +1,23 @@
+{
+  "name": "tarea-2",
+  "version": "0.0.1",
+  "description": "este es un proyecto de prueba para aprender node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "index.js",
+    "watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aprendizaje",
+    "nodejs",
+    "pruebas"
+  ],
+  "author": "Fredy Carmona",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.12",
+    "nodemon": "^3.1.9"
+  }
+}
