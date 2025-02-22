@@ -1,0 +1,16 @@
+{
+  "name": "tarea-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node generator.js",
+    "watch": "node --watch generator.js",
+    "find-even-number": "node find.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fredy carmona",
+  "license": "ISC"
+}
