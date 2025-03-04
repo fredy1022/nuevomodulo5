@@ -1,0 +1,22 @@
+[
+    {
+        "id": 3,
+        "nombre": "Carlos",
+        "edad": 21,
+        "Estudio": "Psicologia"
+    },
+    {
+        "id": 2,
+        "nombre": "Fredy",
+        "edad": 30,
+        "Estudio": "Electricista",
+        "categoria": "Auxiliar"
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Maria",
+        "edad": 20,
+        "Estudio": "Ama de Casa",
+        "categoria": "servicios"
+    }
+]
