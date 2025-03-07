@@ -1,0 +1,284 @@
+[
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 3,
+            "nombre": "Renault",
+            "edad": 80,
+            "Estudio": "Intendente",
+            "categoria": "Medellin"
+        },
+        "date": "2025-03-06T23:08:52.645Z"
+    },
+    {
+        "method": "PUT",
+        "url": "/students/",
+        "body": {
+            "id": 3,
+            "nombre": "Renault",
+            "edad": 80,
+            "Estudio": "Intendente",
+            "categoria": "Medellin"
+        },
+        "date": "2025-03-06T23:09:12.505Z"
+    },
+    {
+        "method": "PUT",
+        "url": "/students/3",
+        "body": {
+            "id": 3,
+            "nombre": "Renault",
+            "edad": 80,
+            "Estudio": "Intendente",
+            "categoria": "Medellin"
+        },
+        "date": "2025-03-06T23:09:19.613Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {},
+        "date": "2025-03-06T23:09:53.518Z"
+    },
+    {
+        "method": "DELETE",
+        "url": "/students/3",
+        "body": {
+            "id": 3,
+            "nombre": "Renault",
+            "edad": 80,
+            "Estudio": "Intendente",
+            "categoria": "Medellin"
+        },
+        "date": "2025-03-06T23:10:23.592Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 3,
+            "nombre": "Renault",
+            "edad": 80,
+            "Estudio": "Intendente",
+            "categoria": "Medellin"
+        },
+        "date": "2025-03-06T23:10:33.483Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 3,
+            "nombre": "Renault",
+            "edad": 80,
+            "Estudio": "Intendente",
+            "categoria": "Medellin"
+        },
+        "date": "2025-03-06T23:20:57.646Z"
+    },
+    {
+        "method": "DELETE",
+        "url": "/students/5",
+        "body": {
+            "id": 5,
+            "nombre": "Mariano",
+            "edad": 45,
+            "Estudio": "Gamin",
+            "categoria": "Guardian"
+        },
+        "date": "2025-03-07T00:10:48.813Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 5,
+            "nombre": "Mariano",
+            "edad": 45,
+            "Estudio": "Gamin",
+            "categoria": "Guardian"
+        },
+        "date": "2025-03-07T00:11:00.867Z"
+    },
+    {
+        "method": "PUT",
+        "url": "/students/12",
+        "body": {
+            "id": 3,
+            "nombre": "Mariano",
+            "edad": 45,
+            "Estudio": "Gamin",
+            "categoria": "Guardian"
+        },
+        "date": "2025-03-07T00:11:40.276Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 3,
+            "nombre": "Mariano",
+            "edad": 45,
+            "Estudio": "Gamin",
+            "categoria": "Guardian"
+        },
+        "date": "2025-03-07T00:11:49.363Z"
+    },
+    {
+        "method": "POST",
+        "url": "/students/5",
+        "body": {
+            "id": 5,
+            "nombre": "Heector",
+            "edad": 45,
+            "Estudio": "Ciclista",
+            "categoria": "Carretera"
+        },
+        "date": "2025-03-07T00:12:50.533Z"
+    },
+    {
+        "method": "POST",
+        "url": "/students/5",
+        "body": {
+            "id": 3,
+            "nombre": "Heector",
+            "edad": 45,
+            "Estudio": "Ciclista",
+            "categoria": "Carretera"
+        },
+        "date": "2025-03-07T00:13:05.095Z"
+    },
+    {
+        "method": "POST",
+        "url": "/students/3",
+        "body": {
+            "id": 3,
+            "nombre": "Heector",
+            "edad": 45,
+            "Estudio": "Ciclista",
+            "categoria": "Carretera"
+        },
+        "date": "2025-03-07T00:13:09.119Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 3,
+            "nombre": "Heector",
+            "edad": 45,
+            "Estudio": "Ciclista",
+            "categoria": "Carretera"
+        },
+        "date": "2025-03-07T00:13:29.233Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 5,
+            "nombre": "Hector",
+            "edad": 30,
+            "Estudio": "Electricista",
+            "categoria": "Auxiliar"
+        },
+        "date": "2025-03-07T00:14:24.057Z"
+    },
+    {
+        "method": "POST",
+        "url": "/students/",
+        "body": {
+            "id": 5,
+            "nombre": "Hector",
+            "edad": 30,
+            "Estudio": "Electricista",
+            "categoria": "Auxiliar"
+        },
+        "date": "2025-03-07T00:14:37.312Z"
+    },
+    {
+        "method": "POST",
+        "url": "/students/",
+        "body": {
+            "id": 6,
+            "nombre": "Leon",
+            "edad": 100,
+            "Estudio": "Electricista",
+            "categoria": "Selvatico"
+        },
+        "date": "2025-03-07T00:15:21.522Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 6,
+            "nombre": "Leon",
+            "edad": 100,
+            "Estudio": "Electricista",
+            "categoria": "Selvatico"
+        },
+        "date": "2025-03-07T00:15:33.693Z"
+    },
+    {
+        "method": "DELETE",
+        "url": "/students/6",
+        "body": {
+            "id": 6,
+            "nombre": "Leon",
+            "edad": 100,
+            "Estudio": "Electricista",
+            "categoria": "Selvatico"
+        },
+        "date": "2025-03-07T00:15:51.996Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 6,
+            "nombre": "Leon",
+            "edad": 100,
+            "Estudio": "Electricista",
+            "categoria": "Selvatico"
+        },
+        "date": "2025-03-07T00:16:00.393Z"
+    },
+    {
+        "method": "POST",
+        "url": "/students/",
+        "body": {
+            "id": 6,
+            "nombre": "Leon",
+            "edad": 100,
+            "Estudio": "Electricista",
+            "categoria": "Selvatico"
+        },
+        "date": "2025-03-07T00:16:29.403Z"
+    },
+    {
+        "method": "PUT",
+        "url": "/students/6",
+        "body": {
+            "id": 6,
+            "nombre": "Pantera",
+            "edad": 10,
+            "Estudio": "Electricista",
+            "categoria": "Campo"
+        },
+        "date": "2025-03-07T00:16:57.846Z"
+    },
+    {
+        "method": "GET",
+        "url": "/students/",
+        "body": {
+            "id": 6,
+            "nombre": "Pantera",
+            "edad": 10,
+            "Estudio": "Electricista",
+            "categoria": "Campo"
+        },
+        "date": "2025-03-07T00:17:09.885Z"
+    }
+]

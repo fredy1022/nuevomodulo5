@@ -1,0 +1,44 @@
+[
+    {
+        "id": 2,
+        "nombre": "Fredy",
+        "edad": 30,
+        "Estudio": "Electricista",
+        "categoria": "Auxiliar"
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Maria",
+        "edad": 20,
+        "Estudio": "Ama de Casa",
+        "categoria": "servicios"
+    },
+    {
+        "id": 1,
+        "nombre": "Andres",
+        "edad": 20,
+        "Estudio": "Camellador",
+        "categoria": "servicios"
+    },
+    {
+        "id": 3,
+        "nombre": "Mariano",
+        "edad": 45,
+        "Estudio": "Gamin",
+        "categoria": "Guardian"
+    },
+    {
+        "id": 5,
+        "nombre": "Hector",
+        "edad": 30,
+        "Estudio": "Electricista",
+        "categoria": "Auxiliar"
+    },
+    {
+        "id": 6,
+        "nombre": "Pantera",
+        "edad": 10,
+        "Estudio": "Electricista",
+        "categoria": "Campo"
+    }
+]
